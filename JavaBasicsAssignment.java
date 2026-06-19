@@ -1,5 +1,3 @@
-package jala.basics;
-
 /**
  * Assignment-1: Java Basics
  * Topics: Class, Object, Methods, Comments, DataTypes, Variables
