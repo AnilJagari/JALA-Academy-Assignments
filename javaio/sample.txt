@@ -1,0 +1,11 @@
+JALA Academy - Sample Text File
+================================
+This file is used for Java IO Assignment.
+
+Line 1: Welcome to JALA Academy
+Line 2: Full Stack Java Course
+Line 3: Location - Hyderabad
+Line 4: Duration - 6 Months
+Line 5: Job Guarantee Program
+
+End of file.
